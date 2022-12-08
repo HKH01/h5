@@ -1,0 +1,1 @@
+import{b as s,o as e,d as a,T as t}from"./index.f9866fe9.js";import{o}from"./uni-app.es.7d0fb22d.js";const r={__name:"web-view",setup(r){const n=s("");return o((s=>{n.value="https://www.baidu.com"})),(s,o)=>{const r=t;return e(),a(r,{class:"web-view",src:n.value},null,8,["src"])}}};export{r as default};
